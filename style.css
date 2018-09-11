@@ -5,4 +5,35 @@
 .tableWrapper {
   max-height: 400px;
   overflow: auto;
+  color: #01584D;
 }
+
+body {
+	background-color: #E0E7E2;
+}
+
+h1 {
+	font-family:Rockwell; font-weight: bold; color: #01584D;
+}
+
+h2 {
+	font-family:Rockwell; color: #01584D;
+}
+
+h6 {
+	font-family:Rockwell; font-style: italic; color: #01584D;
+}
+
+input[type=button], input[type=submit] {
+	background-color: #01584D;
+	border: none;
+	color: white;
+	padding: 6px 14 px;
+	text-decoration: none;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+ 
+
+
+	
